@@ -1,5 +1,6 @@
 {
   "name": "reduxexample2",
+  "homepage": "https://spiro.rocks/projects/reduxexample2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
